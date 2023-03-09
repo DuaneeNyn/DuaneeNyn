@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Duanee !</h1>
 <h3 align="center">A Web Dev Student</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FCalculatingShadowyIchthyosaurs-size_restricted.gif&imgrefurl=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fanimated-screens-gifs&tbnid=pYpHc84i94XaXM&vet=10CA4QxiAoAWoXChMIyMXM2eLP_QIVAAAAAB0AAAAAEBM..i&docid=hpZLefN8Xk9h3M&w=334&h=251&itg=1&q=animated%20girl%20coding%20gif&ved=0CA4QxiAoAWoXChMIyMXM2eLP_QIVAAAAAB0AAAAAEBM">
 
 - 💻 I’m currently learning **HTML - CSS - PHP - JavaScript**
 
