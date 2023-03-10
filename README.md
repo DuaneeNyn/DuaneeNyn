@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋🏾, I'm Duanee !</h1>
-<h3 align="center">A Web Dev Student</h3>
 
-- 📚 Student at **Elan Formation**
+- 📚 I'm a Web Dev Student at **Elan Formation**
 - 💻 I’m currently learning **HTML - CSS - PHP - JavaScript**
 
 <h3 align="left">Languages and Tools:</h3>
